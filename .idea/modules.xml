@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/css-pure-css-parallax/css-pure-css-parallax.iml" filepath="$PROJECT_DIR$/css-pure-css-parallax/css-pure-css-parallax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixed-background/fixed-background.iml" filepath="$PROJECT_DIR$/fixed-background/fixed-background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/traversy_media_parallax/traversy_media_parallax.iml" filepath="$PROJECT_DIR$/traversy_media_parallax/traversy_media_parallax.iml" />
+    </modules>
+  </component>
+</project>
